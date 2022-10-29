@@ -1,9 +1,0 @@
-title: Refute.me.uk
-description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://refute.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pearce_
-github_username:  pearcemc
-
-# Build settings
-theme: minima
