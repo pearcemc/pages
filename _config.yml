@@ -1,2 +1,11 @@
 markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+- ais.html
+- ais.md
+- index.md
