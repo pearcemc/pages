@@ -22,8 +22,10 @@ Particularly in the form of specification gaming:
 - [Examples of specification gaming](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
 
 ## References
+
+Selection to give an idea of breadth:
+- Rohin Shah's [Alignment Newsletter](https://rohinshah.com/alignment-newsletter/).
 - Rob Miles's [AI Safety Channel](https://www.youtube.com/playlist?list=PLqL14ZxTTA4fyhYg6xD6Fz05WcuxLGseL)
 - [stampy.ai](https://stampy.ai) - wiki / encyclopaedia for topics
 - Nick Bostrom - *[Superintelligence](https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111)*
 - [FTX Future fund]([https://ftxfuturefund.org/](https://ftxfuturefund.org/)) - funding for projects
-
