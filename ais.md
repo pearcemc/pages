@@ -1,6 +1,5 @@
 # AI Safety Mini Talk
 
-## AI Safety
 What it isn't about: AI becoming sentient, SkyNet etc.
 
 Two main concepts:
