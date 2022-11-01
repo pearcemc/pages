@@ -1,7 +1,16 @@
-title: Refute.me.uk
-description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://refute.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pearce_
-github_username:  pearcemc
-markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+
+theme: jekyll-theme-tactile
